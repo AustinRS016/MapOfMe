@@ -1,0 +1,161 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.183998108,49.193901062 ]
+    },
+    "properties": {
+    "ident":"CYVR",
+    "name":"Vancouver International Airport",
+    "local_code":"",
+    "municipality":"Vancouver"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.461941,51.4706 ]
+    },
+    "properties": {
+    "ident":"EGLL",
+    "name":"London Heathrow Airport",
+    "local_code":"",
+    "municipality":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.76389,52.308601 ]
+    },
+    "properties": {
+    "ident":"EHAM",
+    "name":"Amsterdam Airport Schiphol",
+    "local_code":"",
+    "municipality":"Amsterdam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.68319702149999,41.9388999939 ]
+    },
+    "properties": {
+    "ident":"KBDL",
+    "name":"Bradley International Airport",
+    "local_code":"BDL",
+    "municipality":"Hartford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.672996521,39.861698150635 ]
+    },
+    "properties": {
+    "ident":"KDEN",
+    "name":"Denver International Airport",
+    "local_code":"DEN",
+    "municipality":"Denver"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.005905,33.435302 ]
+    },
+    "properties": {
+    "ident":"KPHX",
+    "name":"Phoenix Sky Harbor International Airport",
+    "local_code":"PHX",
+    "municipality":"Phoenix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.308998,47.449001 ]
+    },
+    "properties": {
+    "ident":"KSEA",
+    "name":"Seattle Tacoma International Airport",
+    "local_code":"SEA",
+    "municipality":"Seattle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.375,37.61899948120117 ]
+    },
+    "properties": {
+    "ident":"KSFO",
+    "name":"San Francisco International Airport",
+    "local_code":"SFO",
+    "municipality":"San Francisco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.07846,41.2971 ]
+    },
+    "properties": {
+    "ident":"LEBL",
+    "name":"Barcelona International Airport",
+    "local_code":"",
+    "municipality":"Barcelona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.56264,40.471926 ]
+    },
+    "properties": {
+    "ident":"LEMD",
+    "name":"Adolfo Suárez Madrid–Barajas Airport",
+    "local_code":"",
+    "municipality":"Madrid"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.55,49.012798 ]
+    },
+    "properties": {
+    "ident":"LFPG",
+    "name":"Charles de Gaulle International Airport",
+    "local_code":"",
+    "municipality":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.045603,19.738783 ]
+    },
+    "properties": {
+    "ident":"PHKO",
+    "name":"Ellison Onizuka Kona International Airport at Keahole",
+    "local_code":"KOA",
+    "municipality":"Kailua-Kona"
+    }
+  }
+]
+}

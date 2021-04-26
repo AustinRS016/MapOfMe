@@ -1,0 +1,53 @@
+<html>
+<head>
+
+	<title>Map of Me</title>
+	  <link rel="stylesheet" href="styling.css" type="text/css"/>
+	  <!-- the Leaflet CSS -->
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"/>
+		<!-- the Leaflet JavaScript library -->
+		<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+		<!-- link to the geodesic plugin -->
+		<script src="https://cdn.jsdelivr.net/npm/leaflet.geodesic"></script>
+		<!-- Link to JQuery library-->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<!-- LEGEND Plugin-->
+		<script src= "https://cdn.jsdelivr.net/npm/leaflet-legend@1.0.2/leaflet-legend.min.js"></script>
+
+</head>
+
+
+<body>
+
+		<h1>
+			Flight History
+		</h1>
+
+		<div id="map"></div>
+
+    <!-- Map build and funcionality script-->
+		<script src="index.js"></script>
+		<div id="text"><h2>About</h2>
+			<h4>To me, travel has been a big part of my life. This map is a log of all the airports I have taken flights to and from. <br>
+				Each orange dot represents an airport. Hovering over it shows you the name of the airport and municipality it is located in.<br>
+				The lines depict the flight paths. They are 'geodesic', meaning that they show the true geographical shortest route.<br>
+				A route more similar the one an airplane would take as opposed to just drawing a straight line on this map.<br>
+				The geodesic lines add aesthetic appeal to the map but also give one an idea of just how distorted unprojected maps are.<br>
+				The lines are colored blue and yellow for intranational and international flights. Being a washington state resident and <br>
+				in close proximity to a large international airport in Vancouver, I take advantage of cheaper international ticket fares<br>
+				and fly out of the Vancouver International Airport. For flights across the nation I use the 'Seatac' airport also known<br>
+				as the Seattle-Tacoma Airport. When traveling to a European country from North America, often times you'll have a <br>
+				layover in another country. Also, taking small flights known as 'puddle-jumpers' to close countries accounts for part<br> 
+				of my across europe travel.<br>
+		</div>
+
+
+
+
+
+
+</body>
+
+
+
+</html>

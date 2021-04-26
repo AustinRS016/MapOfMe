@@ -1,0 +1,34 @@
+.headers {
+  background-color: 'grey';
+  color: 'black';
+
+}
+h1 {
+  margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px white;
+  text-align: center;
+  /* font-family: "Calibri", serif;
+  margin: auto;
+
+  line-height: 2; */
+}
+body {
+  margin: auto;
+  background-color: #21242b;
+
+}
+#text {
+  width: 80em;
+  margin: 5em
+}
+#map {
+   height: 100em;
+   position: relative;
+   width: 100%;
+}
